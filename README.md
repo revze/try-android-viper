@@ -1,5 +1,5 @@
 # try-android-viper
-The implementation of VIPER architecture in Android.
+The implementation of VIPER (View-Interactor-Presenter-Entity-Router) architecture in Android.
 
 ---
 
