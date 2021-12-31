@@ -3,6 +3,8 @@ The implementation of VIPER (View-Interactor-Presenter-Entity-Router) architectu
 
 ---
 
+## How to Run
+
 To make this project runs properly, you have to:
 
 1. Clone [this API project](https://github.com/revze/menit.com-api) to you local server / cloud server.
@@ -15,5 +17,7 @@ To pass the login page you have to input username (```revan```) and password (``
 
 ## Screenshot
 
-<img src="/previews/login.png" width="32%"/>
-<img src="/previews/welcome.png" width="32%"/>
+<div style="display: flex">
+    <img src="/previews/login.png" width="32%"/>
+    <img src="/previews/welcome.png" width="32%"/>
+</div>
