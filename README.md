@@ -15,5 +15,6 @@ To pass the login page you have to input username (```revan```) and password (``
 
 <div style="display: inline-block">
     <img src="/previews/login.png" width="32%"/>
-    <img src="/previews/welcome.png" width="32%" style="margin-left: 40px"/>
+    <div style="width:50px">
+    <img src="/previews/welcome.png" width="32%"/>
 </div>
