@@ -1,5 +1,9 @@
 # try-android-viper
-The implementation of VIPER architecture in Android. To make this project runs properly, you have to:
+The implementation of VIPER architecture in Android.
+
+---
+
+To make this project runs properly, you have to:
 
 1. Clone [this API project](https://github.com/revze/menit.com-api) to you local server / cloud server.
 2. Change **BASE_URL** config field in **build.gradle** to your local IP address or your domain name.
