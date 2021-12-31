@@ -15,5 +15,5 @@ To pass the login page you have to input username (```revan```) and password (``
 
 ## Screenshot
 
-<img src="/previews/welcome.png" width="32%"/>
+<img src="/previews/login.png" width="32%"/>
 <img src="/previews/welcome.png" width="32%"/>
